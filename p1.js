@@ -1,2 +1,9 @@
-console.log("hello world")
-console.log("hey")
+
+function hey(){
+    {
+    let a = 10;
+
+    }
+    console.log(a)
+}
+hey()
