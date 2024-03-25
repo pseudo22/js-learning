@@ -1,0 +1,23 @@
+body{
+    background-color: #212121;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform : translate(-50% , -50%);
+}
+#banner{
+    color: aqua;
+}
+#clock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vw;
+    width: 20vw;
+    color: red;
+    font-size: x-large;
+    background-color: yellow;
+    border-radius: 15px;
+}
